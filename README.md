@@ -3,7 +3,7 @@
 🎓 Software Engineering Undergraduate  
 💻 AI & Cybersecurity Enthusiast  
 ⚡ Electronics Explorer  
-🌱 Lifelong Learner | Passionate about Self-Development
+🌱 Lifelong Learner | Passionate about Self-Development  
 
 ---
 
@@ -21,45 +21,52 @@
 
 ## 🛠️ Tech Stack
 
-**Languages**
-- C++
-- Java
-- Python
-- JavaScript
-- TypeScript
-- HTML
-- CSS
-- SQL
+### 👨‍💻 Programming Languages
 
-**Frameworks & Tools**
-- React
-- Node.js
-- Vite
-- Git & GitHub
-- VS Code
-- Figma
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,html,css,mysql" />
+</p>
+
+### 🌐 Frameworks & Libraries
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,vite" />
+</p>
+
+### 🧰 Tools & Platforms
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" />
+</p>
 
 ---
 
 ## 🌱 Currently Learning
 
-- Artificial Intelligence
-- Machine Learning
-- Cybersecurity
-- Ethical Hacking
-- Cloud Computing
-- Embedded Systems
-- Modern Software Engineering
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,linux,docker,aws" />
+</p>
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 🔐 Cybersecurity & Ethical Hacking
+- ☁️ Cloud Computing
+- ⚡ Embedded Systems
+- 🏗️ Modern Software Engineering Practices
 
 ---
 
 ## 🎯 Interests
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=ai,python,linux,arduino,raspberrypi" />
+</p>
+
 - 🤖 Artificial Intelligence
 - 🔐 Cybersecurity
 - 💻 Software Development
 - 🌐 Web Development
-- ⚡ Electronics
+- ⚡ Electronics & Embedded Systems
 - 📊 Data Science
 - ☁️ Cloud Computing
 - 🚀 Open Source
@@ -68,13 +75,31 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cap-KC&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Cap-KC&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cap-KC&layout=compact&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cap-KC&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect With Me
 
-- GitHub: https://github.com/Cap_KC
-- LinkedIn: *(www.linkedin.com/in/kaveen-chamikara)*
+<p align="center">
+<a href="https://github.com/Cap-KC">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/kaveen-chamikara">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+</p>
+
+- GitHub: https://github.com/Cap-KC
+- LinkedIn: https://www.linkedin.com/in/kaveen-chamikara
+
+---
+
+⭐ *"Always learning, always building, always improving."*
