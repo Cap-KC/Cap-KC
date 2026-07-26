@@ -55,9 +55,6 @@
 
 ## 🎯 Interests
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,linux,arduino,raspberrypi" />
-</p>
 
 - 🤖 Artificial Intelligence
 - 🔐 Cybersecurity
