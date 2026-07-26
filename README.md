@@ -43,9 +43,6 @@
 
 ## 🌱 Currently Learning
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,linux,docker,aws" />
-</p>
 
 - 🤖 Artificial Intelligence
 - 🧠 Machine Learning
